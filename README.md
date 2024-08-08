@@ -1,2 +1,2 @@
 # alurabook
-site feito atraves do curso 
+projeto feito durante o curso da alura
